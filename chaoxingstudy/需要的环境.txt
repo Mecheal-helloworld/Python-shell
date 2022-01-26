@@ -1,0 +1,5 @@
+wheel
+bs4
+selenium
+set path=%path%;desktop
+设置环境
