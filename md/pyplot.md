@@ -17,15 +17,15 @@ plt.show()
 
 ##### 颜色
 
-![image-20201017101436603](C:%5CUsers%5CASUS%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201017101436603.png)
+![image-20201017101436603](pyplot.assets/image-20201017101436603.png)
 
 ##### 点型
 
-![image-20201017101453304](C:%5CUsers%5CASUS%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201017101453304.png)
+![image-20201017101453304](pyplot.assets/image-20201017101453304.png)
 
 ##### 线型
 
-![image-20201017101605519](C:%5CUsers%5CASUS%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201017101605519.png)
+![image-20201017101605519](pyplot.assets/image-20201017101605519.png)
 
 #### 详解：
 
