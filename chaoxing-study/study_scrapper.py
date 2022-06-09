@@ -9,6 +9,7 @@ except:
 desktop=os.path.join(os.path.expanduser("~"), 'Desktop')
 import sys
 sys.path.append(desktop)
+sys.path.append('F:\\学习\\学习笔记\\Pyhton学习\\chaoxing-study')
 import MyTools
 #################定义播放函数################
 def auto_study(url,pos,acc,pw):

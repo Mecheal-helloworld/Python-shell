@@ -11,7 +11,7 @@ import matplotlib.animation as animation
 ##### 语法格式：
 
 ```python
-animation.FuncAnimation(fig, func, frames=None, init_func=None, fargs=None,save_count=None, *, cache_frame_data=True, **kwargs)
+animation.FuncAnimation(fig, func, frames=None, init_func=None, fargs=None,save_count=None, *, cache_frame_data=True, **kwargs) 
 ```
 
 ##### 参数详解：

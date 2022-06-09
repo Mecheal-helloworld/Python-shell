@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 ### 二、画一组点
 
 ```python
-plt.plot([1,2,3,4], [1,4,9,16],'ro')
-plt.show()
+plt.plot([1,2,3,4], [1,4,9,16],'ro') 
+plt.show() 
 ```
 
 解释：函数plot()的参数中的[1,2,3,4]是输入坐标点的x轴，[1,4,9,16]是输入坐标的y轴，‘ro’为可选参数，是一个字符串来定义图的基本属性如：颜色（color），点型（marker），线型（linestyle），其中的‘r’指的是颜色为红色，'o'指的是点型为圆点。

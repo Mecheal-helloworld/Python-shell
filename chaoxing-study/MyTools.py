@@ -19,6 +19,8 @@ try:
 except:
   os.system(r"pip install -i https://pypi.tuna.tsinghua.edu.cn/simple bs4")
   from bs4 import BeautifulSoup
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+DesiredCapabilities.INTERNETEXPLORER['ignoreProtectedModeSettings'] = True
 os.system(r"set path=%path%;"+desktop)
 #只有显式选择浏览器为'firefox'或'ie'
 #才能打开对应的浏览器
